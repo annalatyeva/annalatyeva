@@ -17,3 +17,6 @@ I am a frontend developer, working with **React**, **HTML**, **CSS**, **JavaScri
 <div>Currently looking for new opportunities and excited about engaging projects.</div>
 <div>In my free time, I enjoy solving challenges on CodeWars, improving my skills, and working on personal projects.</div>
 
+## Projects
+1. [Portfolio for brand specialist](https://github.com/annalatyeva/anna-katsur-portfolio) - This project is a portfolio of a branding and design specialist, developed using React. The website uses React Router DOM for navigation through sections, React Player for embedding video content, classnames for convenient class management of elements, and SCSS for styling using a preprocessor.
+2. Project Name 2 - Brief description
