@@ -19,4 +19,4 @@ I am a frontend developer, working with **React**, **HTML**, **CSS**, **JavaScri
 
 ## Projects
 1. [Portfolio for brand specialist](https://github.com/annalatyeva/anna-katsur-portfolio) - This project is a portfolio of a branding and design specialist, developed using React. The website uses React Router DOM for navigation through sections, React Player for embedding video content, classnames for convenient class management of elements, and SCSS for styling using a preprocessor.
-2. Project Name 2 - Brief description
+2. [Application for learning foreign words](https://github.com/annalatyeva/word-learning-app) - This React project helps users learn foreign words effectively with two main modes: a word list with translations and a flashcard feature for studying. Each flashcard reveals a foreign word and translation with a click. It also includes a custom 404 error page for navigation issues.
